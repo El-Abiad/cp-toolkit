@@ -22,7 +22,7 @@ int main() {
     // freopen("io/input.txt", "r", stdin);
     // freopen("io/output.txt", "w", stdout);
 
-    ll t = 1; cin >> t;
+    ll t = 1; //cin >> t;
     while(t--) solve();
     return 0;
 }
