@@ -1,4 +1,4 @@
-vector<ll> pref(n + 1);
+vector<long long> pref(n + 1);
 
 for (int i = 1; i <= n; i++) {
     cin >> a[i];
