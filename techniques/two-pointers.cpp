@@ -1,3 +1,6 @@
+// Time: O(n)
+// Space: O(1)
+
 int l = 0, r = n-1;
 while(l <= r){
 	// operations
