@@ -1,3 +1,6 @@
+// Time: O(n)
+// Space: O(1)
+
 int l = 0;
 int ans = 0, curAns = 0;
 
